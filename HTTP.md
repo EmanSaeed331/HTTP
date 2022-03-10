@@ -1,4 +1,4 @@
-1️⃣ HTTP (<-- two spaces) : 
+1️⃣ HTTP <br/> : 
     ➡️  The Hypertext transfer protocol is the foundation of the world wide web . 
     ➡️  is used to load web pages using hypertext links 
     ➡️  is application layer protocol 
