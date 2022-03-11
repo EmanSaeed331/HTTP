@@ -1,8 +1,8 @@
 ## 🌍 HTTP  <br/>
-  ➡️  The Hypertext transfer protocol is the foundation of the world wide web . 
-  ➡️  is used to load web pages using hypertext links 
-  ➡️  is application layer protocol 
-  ➡️  designed to transfer information between networked devices .
+    ➡️  The Hypertext transfer protocol is the foundation of the world wide web . 
+    ➡️  is used to load web pages using hypertext links 
+    ➡️  is application layer protocol 
+    ➡️  designed to transfer information between networked devices .
 
 ##  ❓ HTTP request  <br  />
     ➡️ is the way internet communications platforms (Ex: Web browsers | mobile phone ask some information they need to load)<br/>
