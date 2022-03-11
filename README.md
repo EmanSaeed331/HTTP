@@ -4,7 +4,7 @@
   ➡️  is application layer protocol 
   ➡️  designed to transfer information between networked devices .
 
-##  ❓ HTTP request  <br           />
+##  ❓ HTTP request  <br  />
     ➡️ is the way internet communications platforms (Ex: Web browsers | mobile phone ask some information they need to load)<br/>
     ➡️ Each request carries with it series of encoded data . <br/>
     ➡️ it contains :
@@ -14,7 +14,7 @@
        ➡️ HTTP request header 
        ➡️ Optional HTTP body
        
-   1️⃣ URL 
+    1️⃣ URL 
       ➡️ Uniform resource locator . 
       ➡️ is address of given unique resource on the web 
       ➡️ contains :
@@ -25,7 +25,7 @@
           ➡️ Parameters 
           ➡️ Anchor 
 
-   2️⃣ HTTP method : 
+    2️⃣ HTTP method : 
        ➡️ referred to an HTTP verb , which indicates the actions that the HTTP request expects from the queried server . 
        ➡️ the most common HTTP methods : 
           ➡️GET    (for retrieving data from a server at the specified resource ) 
@@ -34,10 +34,10 @@
           ➡️PATCH  (for applying  partial modifications to the resource) 
           ➡️DELETE (delete the resource at the specified URL) 
         
-   3️⃣ HTTP headers : 
+    3️⃣ HTTP headers : 
        ➡️ contain text information stored in key-value pairs . 
 
-   4️⃣ HTTP request body : 
+    4️⃣ HTTP request body : 
        ➡️contains the 'body' of information the request is transferring . 
 
 ## ❓ HTTP response <br  />
