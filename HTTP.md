@@ -6,6 +6,7 @@
 
 ##  ❓ HTTP request : <br/>
 
+<<<<<<< HEAD
 ####    ➡️ is the way internet communications platforms (Ex: Web browsers | mobile phone ask some information they need to load)<br/>
 ####    ➡️ Each request carries with it series of encoded data . <br/>
 ####    ➡️ it contains :
@@ -14,6 +15,16 @@
 ####       ➡️ an HTTP method 
 ####       ➡️ HTTP request header 
 ####       ➡️ Optional HTTP body 
+=======
+    ➡️ is the way internet communications platforms (Ex: Web browsers | mobile phone ask some information they need to load)<br/>
+    ➡️ Each request carries with it series of encoded data . <br/>
+    ➡️ it contains :
+        ➡️ HTTP version type 
+        ➡️ a URL 
+        ➡️ an HTTP method 
+        ➡️ HTTP request header 
+        ➡️ Optional HTTP body 
+>>>>>>> refs/remotes/origin/master
 
 ####   1️⃣ URL 
 ####      ➡️ Uniform resource locator . 
