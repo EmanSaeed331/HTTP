@@ -8,12 +8,12 @@
 
     ➡️ is the way internet communications platforms (Ex: Web browsers | mobile phone ask some information they need to load)<br/>
     ➡️ Each request carries with it series of encoded data . <br/>
-    ➡️ it contains :<br  />
-        ➡️ HTTP version type <br  />
-        ➡️ a URL <br  />
-        ➡️ an HTTP method <br  />
-        ➡️ HTTP request header <br  />
-        ➡️ Optional HTTP body <br  />
+    ➡️ it contains :
+        ➡️ HTTP version type 
+        ➡️ a URL 
+        ➡️ an HTTP method 
+        ➡️ HTTP request header 
+        ➡️ Optional HTTP body 
 
     1️⃣ URL 
         ➡️ Uniform resource locator . 
