@@ -14,31 +14,31 @@
         ➡️ HTTP request header <br/>
         ➡️ Optional HTTP body <br/>
 
-    1️⃣ URL <br/>
-        ➡️ Uniform resource locator . <br/>
-        ➡️ is address of given unique resource on the web <br/>
-        ➡️ contains : <br/>
-            ➡️ Schema <br/>
-            ➡️ Domain name <br/>
-            ➡️ Port <br/>
-            ➡️ Path to file <br/>
-            ➡️ Parameters <br/>
-            ➡️ Anchor  <br/>
+    1️⃣ URL 
+        ➡️ Uniform resource locator . 
+        ➡️ is address of given unique resource on the web 
+        ➡️ contains :
+            ➡️ Schema 
+            ➡️ Domain name 
+            ➡️ Port 
+            ➡️ Path to file 
+            ➡️ Parameters 
+            ➡️ Anchor 
 
-    2️⃣ HTTP method : <br/>
-        ➡️ referred to an HTTP verb , which indicates the actions that the HTTP request expects from the queried server . <br/>
-        ➡️ the most common HTTP methods : <br/>
-            ➡️GET    (for retrieving data from a server at the specified resource ) <br/>
-            ➡️POST   (for sending data to the API server ) <br/>
-            ➡️PUT    (for updating or creating a resource) <br/>
-            ➡️PATCH  (for applying  partial modifications to the resource) <br/>
-            ➡️DELETE (delete the resource at the specified URL) <br/>
+    2️⃣ HTTP method : 
+        ➡️ referred to an HTTP verb , which indicates the actions that the HTTP request expects from the queried server . 
+        ➡️ the most common HTTP methods : 
+            ➡️GET    (for retrieving data from a server at the specified resource ) 
+            ➡️POST   (for sending data to the API server ) 
+            ➡️PUT    (for updating or creating a resource) 
+            ➡️PATCH  (for applying  partial modifications to the resource) 
+            ➡️DELETE (delete the resource at the specified URL) 
         
-    3️⃣ HTTP headers : <br/>
-        ➡️ contain text information stored in key-value pairs . <br/>
+    3️⃣ HTTP headers : 
+        ➡️ contain text information stored in key-value pairs . 
 
-    4️⃣ HTTP request body : <br/>
-        ➡️contains the 'body' of information the request is transferring . <br/>
+    4️⃣ HTTP request body : 
+        ➡️contains the 'body' of information the request is transferring . 
 
 ❓ HTTP response <br/>
     ➡️ is made by server to a client .<br/>
@@ -48,18 +48,18 @@
         ➡️  A Series  of HTTP headers  | fields . <br/>
         ➡️  A message body <br/>
     
-    1️⃣ status line <br/>
-        ➡️ is the first line in response message <br/>
-        ➡️ contains : <br/>
-            ➡️ HTTP version number <br/>
-            ➡️ status code [1xx ~ 5xx] <br/>
-            ➡️ reason phrase <br/>
+    1️⃣ status line 
+        ➡️ is the first line in response message 
+        ➡️ contains : 
+            ➡️ HTTP version number 
+            ➡️ status code [1xx ~ 5xx] 
+            ➡️ reason phrase 
 
-    2️⃣ HTTP header  <br/>
-        ➡️ contains information that a client can use . <br/>
+    2️⃣ HTTP header  
+        ➡️ contains information that a client can use . 
 
-    3️⃣ Message body <br/>
-        ➡️ be referred to for convenience as a response body. <br/>
+    3️⃣ Message body 
+        ➡️ be referred to for convenience as a response body. 
 
 
 
