@@ -1,18 +1,18 @@
-🌍 HTTP : <br/>
+🌍 ## HTTP : <br/>
     ➡️  The Hypertext transfer protocol is the foundation of the world wide web . <br/>
     ➡️  is used to load web pages using hypertext links <br/>
     ➡️  is application layer protocol <br/>
     ➡️  designed to transfer information between networked devices .<br/>
 
-❓ HTTP request : <br/>
+❓ ## HTTP request : <br/>
     ➡️ is the way internet communications platforms (Ex: Web browsers | mobile phone ask some information they need to load)<br/>
     ➡️ Each request carries with it series of encoded data . <br/>
-    ➡️ it contains :<br/>
-        ➡️ HTTP version type <br/>
-        ➡️ a URL <br/>
-        ➡️ an HTTP method <br/>
-        ➡️ HTTP request header <br/>
-        ➡️ Optional HTTP body <br/>
+    ➡️ it contains :<br  />
+      &nbsp  ➡️ HTTP version type <br  />
+        ➡️ a URL <br  />
+        ➡️ an HTTP method <br  />
+        ➡️ HTTP request header <br  />
+        ➡️ Optional HTTP body <br  />
 
     1️⃣ URL 
         ➡️ Uniform resource locator . 
@@ -40,13 +40,13 @@
     4️⃣ HTTP request body : 
         ➡️contains the 'body' of information the request is transferring . 
 
-❓ HTTP response <br/>
-    ➡️ is made by server to a client .<br/>
-    ➡️ provides the client with the resource it requested  | error occurred <br/>
-    ➡️ contains : <br/>
-        ➡️  A status line <br/>
-        ➡️  A Series  of HTTP headers  | fields . <br/>
-        ➡️  A message body <br/>
+❓ HTTP response <br  />
+    ➡️ is made by server to a client .<br  />
+    ➡️ provides the client with the resource it requested  | error occurred <br  />
+    ➡️ contains : <br  />
+        ➡️  A status line <br  />
+        ➡️  A Series  of HTTP headers  | fields . <br  />
+        ➡️  A message body <br  />
     
     1️⃣ status line 
         ➡️ is the first line in response message 
