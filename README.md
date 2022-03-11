@@ -4,9 +4,7 @@
   ➡️  is application layer protocol 
   ➡️  designed to transfer information between networked devices .
 
-##  ❓ HTTP request  <br/>
-
-
+##  ❓ HTTP request  <br           />
     ➡️ is the way internet communications platforms (Ex: Web browsers | mobile phone ask some information they need to load)<br/>
     ➡️ Each request carries with it series of encoded data . <br/>
     ➡️ it contains :
@@ -14,9 +12,8 @@
        ➡️ a URL 
        ➡️ an HTTP method 
        ➡️ HTTP request header 
-       ➡️ Optional HTTP body 
-     
- <br/>
+       ➡️ Optional HTTP body
+       
    1️⃣ URL 
       ➡️ Uniform resource locator . 
       ➡️ is address of given unique resource on the web 
